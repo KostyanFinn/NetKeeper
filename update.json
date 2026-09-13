@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "version": "0.6.1",
-  "notes": "Исправлена компоновка первого экрана, добавлена понятная последовательность первой настройки и подготовлен безопасный канал обновлений.",
+  "version": "0.6.3",
+  "notes": "Обнаружение роутера, безопасная миграция VPN-маршрутов, диагностика журнала и загрузка обновлений.",
   "packages": {
     "windows": {
-      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.6.1/NetKeeper-0.6.1-windows.zip",
-      "sha256": "1184889509303749da92102a4e052b4e188729cde26bcad5155ed1765e228355"
+      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.6.3/NetKeeper-0.6.3-windows.zip",
+      "sha256": "a079e3d4442388f650e594c0c3906e366038df22fd7cb8dc592a057dc3b030ec"
     }
   }
 }
