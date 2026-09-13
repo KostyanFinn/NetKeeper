@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "version": "0.6.3",
-  "notes": "Обнаружение роутера, безопасная миграция VPN-маршрутов, диагностика журнала и загрузка обновлений.",
+  "version": "0.6.4",
+  "notes": "Исправлено чтение журнала Keenetic; улучшены обновления, обнаружение роутера и безопасное планирование маршрутов.",
   "packages": {
     "windows": {
-      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.6.3/NetKeeper-0.6.3-windows.zip",
-      "sha256": "a079e3d4442388f650e594c0c3906e366038df22fd7cb8dc592a057dc3b030ec"
+      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.6.4/NetKeeper-0.6.4-windows.zip",
+      "sha256": "7bde509a28850ed1a062a3e542ffe8d77299fab153cb9095d52ef1ea72bdd1a5"
     }
   }
 }
