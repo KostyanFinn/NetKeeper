@@ -1,11 +1,12 @@
 {
-  "schema": 1,
-  "version": "0.6.4",
-  "notes": "Исправлено чтение журнала Keenetic; улучшены обновления, обнаружение роутера и безопасное планирование маршрутов.",
+  "schema": 2,
+  "version": "0.6.6",
+  "notes": "Guided first setup, clearer routes interface, and work email contact.",
   "packages": {
     "windows": {
-      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.6.4/NetKeeper-0.6.4-windows.zip",
-      "sha256": "7bde509a28850ed1a062a3e542ffe8d77299fab153cb9095d52ef1ea72bdd1a5"
+      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.6.6/NetKeeper-0.6.6-windows.zip",
+      "sha256": "a11eeb1a8b8dada166691d91c68ce22e929da406a8c2792954aa7cfd56bbd8e6"
     }
-  }
+  },
+  "signature": "54d8cdaf2bd7cae02b8cd9272287371bd78d019bf38dc586883c1de51c204b4ad8a8ca66083ebbb12d15ad609bb959e05be328bb161306f76bbfa4e8f76b5e0a"
 }
