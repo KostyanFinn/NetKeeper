@@ -1,12 +1,13 @@
 {
   "schema": 2,
-  "version": "0.6.6",
-  "notes": "Guided first setup, clearer routes interface, and work email contact.",
+  "version": "0.6.7",
+  "notes": "Network failure diagnostics, safer VPN failover, and Mac fixes.",
   "packages": {
     "windows": {
-      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.6.6/NetKeeper-0.6.6-windows.zip",
-      "sha256": "a11eeb1a8b8dada166691d91c68ce22e929da406a8c2792954aa7cfd56bbd8e6"
+      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.6.7/NetKeeper-0.6.7-windows.zip",
+      "sha256": "d4e40e51fb9087ddc6a2c7a8557d09a0df624c6c8a68f96b013940935078efba"
     }
   },
-  "signature": "54d8cdaf2bd7cae02b8cd9272287371bd78d019bf38dc586883c1de51c204b4ad8a8ca66083ebbb12d15ad609bb959e05be328bb161306f76bbfa4e8f76b5e0a"
+  "signature": "912d4581b3bd728301620f3b1505a8f3e19c58c861d132650e4a365960f06cc6023714e2d82e30706051b61f2fa460e7e7c3d29ecf7ecd2c99e492c44eeaa308"
 }
+  
