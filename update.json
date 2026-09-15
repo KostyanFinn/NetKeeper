@@ -1,13 +1,12 @@
 {
   "schema": 2,
-  "version": "0.6.7",
-  "notes": "Network failure diagnostics, safer VPN failover, and Mac fixes.",
+  "version": "0.6.8",
+  "notes": "Диагностика сети с безопасным отчётом, понятное восстановление после сетевых ошибок и импорт локального WireGuard/AmneziaWG-профиля как основного или резервного VPN.",
   "packages": {
     "windows": {
-      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.6.7/NetKeeper-0.6.7-windows.zip",
-      "sha256": "d4e40e51fb9087ddc6a2c7a8557d09a0df624c6c8a68f96b013940935078efba"
+      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.6.8/NetKeeper-0.6.8-windows.zip",
+      "sha256": "2c8bd8af4ba39299ec523269a989d1d055bacb0da597510917880b5df9b56855"
     }
   },
-  "signature": "912d4581b3bd728301620f3b1505a8f3e19c58c861d132650e4a365960f06cc6023714e2d82e30706051b61f2fa460e7e7c3d29ecf7ecd2c99e492c44eeaa308"
+  "signature": "a317498113d8070d443f9e6c70a0608283048d4b9663ce60272619a806a32f9a75e0a8df076851994427de0a1b60de0e66ab5cd03b656a96c7f0fe2e650bc400"
 }
-  
