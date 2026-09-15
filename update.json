@@ -1,12 +1,12 @@
 {
   "schema": 2,
-  "version": "0.6.9",
-  "notes": "Исправлена проверка HTTPS в Windows и упрощено обновление маршрутов.",
+  "version": "0.7.0",
+  "notes": "Упрощён интерфейс, исправлен показ паролей, добавлена безопасная проверка и планирование обновлений прошивки роутера.",
   "packages": {
     "windows": {
-      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.6.9/NetKeeper-0.6.9-windows.zip",
-      "sha256": "3e4bdd7f4876dfa131eca4c164e01c694904f5c77675ebcc4cced8b4443ee483"
+      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.7.0/NetKeeper-0.7.0-windows.zip",
+      "sha256": "f541205699a6fb856be1524c7bd57c69089ccfbfe0ed6639dd0b9fba588bc0dc"
     }
   },
-  "signature": "b79108c9ecb91f53046c1e7f15197504f38f7bfbfd18190bd6d4bfa9832824178a71baf6c27e961f958ae91dc92c14c80e8b88e309a4a478ee6df43f12e2c904"
+  "signature": "30a0bbfd949bad7d583fdaa781fd4c78b3f04bc2c0d15f7e306b2ef8a428f2ce64b1c3e0bf11d788f840723c05809f84446f5f99c5e77aa680ae92ac61bd0c00"
 }
