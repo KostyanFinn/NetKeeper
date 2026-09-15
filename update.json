@@ -1,12 +1,12 @@
 {
   "schema": 2,
-  "version": "0.6.8",
-  "notes": "Диагностика сети с безопасным отчётом, понятное восстановление после сетевых ошибок и импорт локального WireGuard/AmneziaWG-профиля как основного или резервного VPN.",
+  "version": "0.6.9",
+  "notes": "Исправлена проверка HTTPS в Windows и упрощено обновление маршрутов.",
   "packages": {
     "windows": {
-      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.6.8/NetKeeper-0.6.8-windows.zip",
-      "sha256": "2c8bd8af4ba39299ec523269a989d1d055bacb0da597510917880b5df9b56855"
+      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.6.9/NetKeeper-0.6.9-windows.zip",
+      "sha256": "3e4bdd7f4876dfa131eca4c164e01c694904f5c77675ebcc4cced8b4443ee483"
     }
   },
-  "signature": "a317498113d8070d443f9e6c70a0608283048d4b9663ce60272619a806a32f9a75e0a8df076851994427de0a1b60de0e66ab5cd03b656a96c7f0fe2e650bc400"
+  "signature": "b79108c9ecb91f53046c1e7f15197504f38f7bfbfd18190bd6d4bfa9832824178a71baf6c27e961f958ae91dc92c14c80e8b88e309a4a478ee6df43f12e2c904"
 }
