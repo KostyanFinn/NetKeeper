@@ -1,12 +1,13 @@
 {
   "schema": 2,
-  "version": "0.7.0",
-  "notes": "Упрощён интерфейс, исправлен показ паролей, добавлена безопасная проверка и планирование обновлений прошивки роутера.",
+  "version": "0.7.1",
+  "notes": "Надёжное автоматическое обновление: подписанный размер пакета, безопасное возобновление загрузки, восстановление после сбоя установки и автоматическая проверка при запуске и каждые 12 часов.",
   "packages": {
     "windows": {
-      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.7.0/NetKeeper-0.7.0-windows.zip",
-      "sha256": "b17f04c9dda107be09d015232c7ffae2ad0406f83dcb0487d6012f8fdb6b8a58"
+      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.7.1/NetKeeper-0.7.1-windows.zip",
+      "sha256": "169bd7d34e0e508d50c088909075385dafbcea823cbf85c88b0c411367c327d8",
+      "size": 36984367
     }
   },
-  "signature": "5e21fe689f9784af731b44a56351d1a049bb877d29149b639b7ef770de0f758b6bd10bedc723e6814aaee8c5b1d9f4cedd6822ad0c6d0b02ed336e8caa0e1504"
+  "signature": "ab78c2e39dfc0134a424d058637c08dca6aa1cb437402815197f33006f69cfefdcfe2c77d331dfda10b7c81522fa7896328b7ffdb1e1ec89ab9ce3733e140809"
 }
