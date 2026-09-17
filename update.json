@@ -1,13 +1,18 @@
 {
   "schema": 2,
-  "version": "0.7.1",
-  "notes": "Надёжное автоматическое обновление: подписанный размер пакета, безопасное возобновление загрузки, восстановление после сбоя установки и автоматическая проверка при запуске и каждые 12 часов.",
+  "version": "0.8.0",
+  "notes": "MagniRoute 0.8.0: новое имя, несколько мест и роутеров, безопасная идентификация оборудования, защита от конфликтов VPN-профилей, расширенная матрица производителей, отдельная покупка VLESS и улучшенная автоматизация.",
   "packages": {
     "windows": {
-      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.7.1/NetKeeper-0.7.1-windows.zip",
-      "sha256": "169bd7d34e0e508d50c088909075385dafbcea823cbf85c88b0c411367c327d8",
-      "size": 36984367
+      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.8.0/MagniRoute-0.8.0-windows.zip",
+      "sha256": "29302541c6813d5ce257a860aeb24a7eabc4e3a7ce8a183f5bdf05ed7e342765",
+      "size": 37064194
+    },
+    "macos": {
+      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.8.0/MagniRoute-0.8.0-macos.zip",
+      "sha256": "82f4601435450818c65d6011af1e5691ef8ec0e81992136366a821582a139960",
+      "size": 23615551
     }
   },
-  "signature": "ab78c2e39dfc0134a424d058637c08dca6aa1cb437402815197f33006f69cfefdcfe2c77d331dfda10b7c81522fa7896328b7ffdb1e1ec89ab9ce3733e140809"
+  "signature": "bc6e665f7b7e0cf6910ac9872db6c290daac13b0356ab27e81c5a514f9b7cd7d3017669eb14e6d01455818dc46a9ffdf669fbf17607b2f7bfa10689d78699b03"
 }
