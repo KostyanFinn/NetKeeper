@@ -1,18 +1,18 @@
 {
   "schema": 2,
-  "version": "0.8.1",
-  "notes": "MagniRoute 0.8.1: исправлено распознавание аппаратного идентификатора KeeneticOS 5 (hw_id), чтобы безопасная автоматическая запись маршрутов не блокировалась на поддерживаемых Keenetic.",
+  "version": "0.8.2",
+  "notes": "Единое чтение роутера и диагностика VPN, обновление прошивки сейчас или по расписанию, фирменный стиль NewTech.",
   "packages": {
     "windows": {
-      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.8.1/MagniRoute-0.8.1-windows.zip",
-      "sha256": "e3efe623860dac955de20af971f9b3f01597306f463aa8ddbf26cab48ba866b1",
-      "size": 37064251
+      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.8.2/MagniRoute-0.8.2-windows.zip",
+      "sha256": "49b97639198c31f15af6819449824c39c14a13b49179d2e567c0632f52089608",
+      "size": 37135933
     },
     "macos": {
-      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.8.1/MagniRoute-0.8.1-macos.zip",
-      "sha256": "08b8ac18d606f8fb5105179511fd9903a728252c9bc84197a3b7ed11e4b305d0",
-      "size": 23615459
+      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.8.2/MagniRoute-0.8.2-macos.zip",
+      "sha256": "21feb733f88fa818386891f6e13546fd823c7d3d2f4c4155451971dd5f49ba6b",
+      "size": 24992518
     }
   },
-  "signature": "3d8255e934692da78c7dd7282aa4219328cbb3bb0c76176db07e3af5adeed0ecd44fbd2e7fdca15d76fb7c99b5c73cee0965a3d195ba293aa888b6833dff8c09"
+  "signature": "19cf55d67962b34309b61e8874f5f097d1f8c413b8436130aed5c24a195034328c1dff90fb9c8588ff98a9ac169a961d212988b65ad08009f870e68a4a364109"
 }
