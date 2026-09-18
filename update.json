@@ -1,18 +1,18 @@
 {
   "schema": 2,
-  "version": "0.8.0",
-  "notes": "MagniRoute 0.8.0: новое имя, несколько мест и роутеров, безопасная идентификация оборудования, защита от конфликтов VPN-профилей, расширенная матрица производителей, отдельная покупка VLESS и улучшенная автоматизация.",
+  "version": "0.8.1",
+  "notes": "MagniRoute 0.8.1: исправлено распознавание аппаратного идентификатора KeeneticOS 5 (hw_id), чтобы безопасная автоматическая запись маршрутов не блокировалась на поддерживаемых Keenetic.",
   "packages": {
     "windows": {
-      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.8.0/MagniRoute-0.8.0-windows.zip",
-      "sha256": "29302541c6813d5ce257a860aeb24a7eabc4e3a7ce8a183f5bdf05ed7e342765",
-      "size": 37064194
+      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.8.1/MagniRoute-0.8.1-windows.zip",
+      "sha256": "e3efe623860dac955de20af971f9b3f01597306f463aa8ddbf26cab48ba866b1",
+      "size": 37064251
     },
     "macos": {
-      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.8.0/MagniRoute-0.8.0-macos.zip",
-      "sha256": "82f4601435450818c65d6011af1e5691ef8ec0e81992136366a821582a139960",
-      "size": 23615551
+      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.8.1/MagniRoute-0.8.1-macos.zip",
+      "sha256": "08b8ac18d606f8fb5105179511fd9903a728252c9bc84197a3b7ed11e4b305d0",
+      "size": 23615459
     }
   },
-  "signature": "bc6e665f7b7e0cf6910ac9872db6c290daac13b0356ab27e81c5a514f9b7cd7d3017669eb14e6d01455818dc46a9ffdf669fbf17607b2f7bfa10689d78699b03"
+  "signature": "3d8255e934692da78c7dd7282aa4219328cbb3bb0c76176db07e3af5adeed0ecd44fbd2e7fdca15d76fb7c99b5c73cee0965a3d195ba293aa888b6833dff8c09"
 }
