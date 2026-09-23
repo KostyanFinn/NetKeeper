@@ -1,18 +1,18 @@
 {
   "schema": 2,
-  "version": "0.8.2",
-  "notes": "Единое чтение роутера и диагностика VPN, обновление прошивки сейчас или по расписанию, фирменный стиль NewTech.",
+  "version": "0.8.3",
+  "notes": "Ручное обновление состояния основного и резервного VPN; понятный прогресс и свежие результаты без прерывания второй проверки.",
   "packages": {
     "windows": {
-      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.8.2/MagniRoute-0.8.2-windows.zip",
-      "sha256": "49b97639198c31f15af6819449824c39c14a13b49179d2e567c0632f52089608",
-      "size": 37135933
+      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.8.3/MagniRoute-0.8.3-windows.zip",
+      "sha256": "213d9e5254b555148072e98c7191b72b4324b2860887444afcafacb74fdcb3a2",
+      "size": 37138383
     },
     "macos": {
-      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.8.2/MagniRoute-0.8.2-macos.zip",
-      "sha256": "21feb733f88fa818386891f6e13546fd823c7d3d2f4c4155451971dd5f49ba6b",
-      "size": 24992518
+      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.8.3/MagniRoute-0.8.3-macos.zip",
+      "sha256": "5f537b1b9a44f6dd7e115de324cec8770c449dab669f6a286829c6e866b98b0b",
+      "size": 24994327
     }
   },
-  "signature": "19cf55d67962b34309b61e8874f5f097d1f8c413b8436130aed5c24a195034328c1dff90fb9c8588ff98a9ac169a961d212988b65ad08009f870e68a4a364109"
+  "signature": "3792f73a633d4f4a3c6c191affe64df744c1fae38532e3fbaa8137d8507f8a4365b2a15fdc93449754662c8a05fb2d001eb03bb0b2f7bdec4f7d0d2443e75b07"
 }
