@@ -1,18 +1,18 @@
 {
   "schema": 2,
-  "version": "0.8.3",
-  "notes": "Ручное обновление состояния основного и резервного VPN; понятный прогресс и свежие результаты без прерывания второй проверки.",
+  "version": "0.8.4",
+  "notes": "Видимый фоновый режим и автозапуск, сворачивание в трей, компактный интерфейс без прокрутки и проверка основного и резервного VPN.",
   "packages": {
     "windows": {
-      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.8.3/MagniRoute-0.8.3-windows.zip",
-      "sha256": "213d9e5254b555148072e98c7191b72b4324b2860887444afcafacb74fdcb3a2",
-      "size": 37138383
+      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.8.4/MagniRoute-0.8.4-windows.zip",
+      "sha256": "d9707fea816cb71c9ff0682548d312f358024fbdab4675dff5146a38d23032e2",
+      "size": 37139771
     },
     "macos": {
-      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.8.3/MagniRoute-0.8.3-macos.zip",
-      "sha256": "5f537b1b9a44f6dd7e115de324cec8770c449dab669f6a286829c6e866b98b0b",
-      "size": 24994327
+      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.8.4/MagniRoute-0.8.4-macos.zip",
+      "sha256": "f058a996edd8a745033c4bb60c42820d3ec799eb636d0052e4c5aaff4ea2305c",
+      "size": 24994961
     }
   },
-  "signature": "3792f73a633d4f4a3c6c191affe64df744c1fae38532e3fbaa8137d8507f8a4365b2a15fdc93449754662c8a05fb2d001eb03bb0b2f7bdec4f7d0d2443e75b07"
+  "signature": "72accf2ffd1bca7f08e7bbb946ce4b99b1b49659d76413b49a5c308a688834634d51afe51dbd0c7dec93d2ccc64ec2a4df42ba863cd4a58b1cddf33409908e03"
 }
