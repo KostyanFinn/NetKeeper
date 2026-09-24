@@ -1,18 +1,28 @@
 {
   "schema": 2,
-  "version": "0.8.4",
-  "notes": "Видимый фоновый режим и автозапуск, сворачивание в трей, компактный интерфейс без прокрутки и проверка основного и резервного VPN.",
+  "version": "0.8.5",
+  "notes": "Улучшены интерфейс и значок; исправлена проверка прошивки. Для macOS отдельные обновления Apple Silicon и Intel.",
   "packages": {
     "windows": {
-      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.8.4/MagniRoute-0.8.4-windows.zip",
-      "sha256": "d9707fea816cb71c9ff0682548d312f358024fbdab4675dff5146a38d23032e2",
-      "size": 37139771
+      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.8.5/MagniRoute-0.8.5-windows.zip",
+      "sha256": "216ea85f9b16c112213513c92cfe57f7078e1c124d677c7534f3a38012df28a7",
+      "size": 37108852
     },
     "macos": {
-      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.8.4/MagniRoute-0.8.4-macos.zip",
-      "sha256": "f058a996edd8a745033c4bb60c42820d3ec799eb636d0052e4c5aaff4ea2305c",
-      "size": 24994961
+      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.8.5/MagniRoute-0.8.5-macos-x86_64.zip",
+      "sha256": "cbcd3e85f3183183cd90ae733aa5a483366a15ba6c43a6dbc80003b1152dba2f",
+      "size": 25428212
+    },
+    "macos-arm64": {
+      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.8.5/MagniRoute-0.8.5-macos-arm64.zip",
+      "sha256": "31ec77e82d1ed965e3045c5773ffd2522bd863c94db285bf2a7b76409c6e3ee4",
+      "size": 23924475
+    },
+    "macos-x86_64": {
+      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.8.5/MagniRoute-0.8.5-macos-x86_64.zip",
+      "sha256": "cbcd3e85f3183183cd90ae733aa5a483366a15ba6c43a6dbc80003b1152dba2f",
+      "size": 25428212
     }
   },
-  "signature": "72accf2ffd1bca7f08e7bbb946ce4b99b1b49659d76413b49a5c308a688834634d51afe51dbd0c7dec93d2ccc64ec2a4df42ba863cd4a58b1cddf33409908e03"
+  "signature": "5a4f12e7dbb9a56f3702603073decdf6edba436251eff7ad70ddcf4d90f62de77d961f40ca9bf9843c8068a35730c61f5042645eed0a496da00cce92f756d80e"
 }
