@@ -1,28 +1,28 @@
 {
   "schema": 2,
-  "version": "0.8.5",
-  "notes": "Улучшены интерфейс и значок; исправлена проверка прошивки. Для macOS отдельные обновления Apple Silicon и Intel.",
+  "version": "0.8.6",
+  "notes": "Исправления и улучшения MagniRoute.",
   "packages": {
     "windows": {
-      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.8.5/MagniRoute-0.8.5-windows.zip",
-      "sha256": "216ea85f9b16c112213513c92cfe57f7078e1c124d677c7534f3a38012df28a7",
-      "size": 37108852
+      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.8.6/MagniRoute-0.8.6-windows.zip",
+      "sha256": "ee96473e17d376127fb364dd3ad2de1406a487c6de77efded2172f6614bac3ba",
+      "size": 37131868
     },
     "macos": {
-      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.8.5/MagniRoute-0.8.5-macos-x86_64.zip",
-      "sha256": "cbcd3e85f3183183cd90ae733aa5a483366a15ba6c43a6dbc80003b1152dba2f",
-      "size": 25428212
+      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.8.6/MagniRoute-0.8.6-macos-x86_64.zip",
+      "sha256": "c46c8cf6699358d5fcc48cf0c31fda486fbf4e35c3b3e82bbd1e27598975458d",
+      "size": 25413701
     },
     "macos-arm64": {
-      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.8.5/MagniRoute-0.8.5-macos-arm64.zip",
-      "sha256": "31ec77e82d1ed965e3045c5773ffd2522bd863c94db285bf2a7b76409c6e3ee4",
-      "size": 23924475
+      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.8.6/MagniRoute-0.8.6-macos-arm64.zip",
+      "sha256": "dd0f540c582195e31fded151803692e0cd5283bf4f8310a56540117bc86e30f8",
+      "size": 23789948
     },
     "macos-x86_64": {
-      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.8.5/MagniRoute-0.8.5-macos-x86_64.zip",
-      "sha256": "cbcd3e85f3183183cd90ae733aa5a483366a15ba6c43a6dbc80003b1152dba2f",
-      "size": 25428212
+      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.8.6/MagniRoute-0.8.6-macos-x86_64.zip",
+      "sha256": "c46c8cf6699358d5fcc48cf0c31fda486fbf4e35c3b3e82bbd1e27598975458d",
+      "size": 25413701
     }
   },
-  "signature": "5a4f12e7dbb9a56f3702603073decdf6edba436251eff7ad70ddcf4d90f62de77d961f40ca9bf9843c8068a35730c61f5042645eed0a496da00cce92f756d80e"
+  "signature": "30576c664b08957a9fae8b80ae755110226bd161130cf1f8211ca8d7657a9bcff7ded8b86270024ee45535b2a0c74396bbcdc8d0dfd3993ccb38b4f8eea73a04"
 }
