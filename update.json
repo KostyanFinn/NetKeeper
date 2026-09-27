@@ -1,28 +1,28 @@
 {
   "schema": 2,
-  "version": "0.8.7",
-  "notes": "macOS: обновление на Apple Silicon выбирает нативную arm64-версию даже после запуска старой Intel-версии через Rosetta.",
+  "version": "0.8.8",
+  "notes": "macOS: исправлен адрес автоматических обновлений; Mac с Apple Silicon выбирает нативную arm64-сборку даже после запуска через Rosetta.",
   "packages": {
     "windows": {
-      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.8.7/MagniRoute-0.8.7-windows.zip",
-      "sha256": "aade805f9be76e02ce86e10e163af8ebff64c820472f9019518db307098e4808",
-      "size": 37133514
+      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.8.8/MagniRoute-0.8.8-windows.zip",
+      "sha256": "3e1e65d4ffc6c096a23dfa4684ca050fbe1e780201a69a663d71df0fa9d69057",
+      "size": 37132345
     },
     "macos": {
-      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.8.7/MagniRoute-0.8.7-macos-x86_64.zip",
-      "sha256": "d07df59220435d15bae0151575999df0d78eb30e19f055fafb4629ad0ec3a312",
-      "size": 25414981
+      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.8.8/MagniRoute-0.8.8-macos-x86_64.zip",
+      "sha256": "08e526c79d26c4bb8dc3ea518c4d3b62b6daeffd3600a0ab37e21d84cb9cfabd",
+      "size": 25414486
     },
     "macos-arm64": {
-      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.8.7/MagniRoute-0.8.7-macos-arm64.zip",
-      "sha256": "8a019ab03479f297d8219d190b12c526b8ace3465187914d253025f6d53c749c",
-      "size": 23789462
+      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.8.8/MagniRoute-0.8.8-macos-arm64.zip",
+      "sha256": "bfbc536d0a5454ca4bfe4540e986e04043e7486628f5118d61fa18dc2bd19dc5",
+      "size": 23790800
     },
     "macos-x86_64": {
-      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.8.7/MagniRoute-0.8.7-macos-x86_64.zip",
-      "sha256": "d07df59220435d15bae0151575999df0d78eb30e19f055fafb4629ad0ec3a312",
-      "size": 25414981
+      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.8.8/MagniRoute-0.8.8-macos-x86_64.zip",
+      "sha256": "08e526c79d26c4bb8dc3ea518c4d3b62b6daeffd3600a0ab37e21d84cb9cfabd",
+      "size": 25414486
     }
   },
-  "signature": "67d7c4eb2d31dba0c48cf6635ae4389b4356e61d8e01e00d7dec04fd48ac0d4a6d8744738559c11871f3b9f601ce16f76069ac2937ef9ee5b39979bc848aa308"
+  "signature": "cdde6a34393dce4f79e049fe8cfd3bd5d8b0249d20e9968b3ff25a29e59c51ec26581384c583af327bd57e30d3f57f9b27922ecf0bb7e0f5d3fc27f0876fe50d"
 }
