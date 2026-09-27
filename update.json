@@ -1,28 +1,28 @@
 {
   "schema": 2,
-  "version": "0.8.6",
-  "notes": "Исправления и улучшения MagniRoute.",
+  "version": "0.8.7",
+  "notes": "macOS: обновление на Apple Silicon выбирает нативную arm64-версию даже после запуска старой Intel-версии через Rosetta.",
   "packages": {
     "windows": {
-      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.8.6/MagniRoute-0.8.6-windows.zip",
-      "sha256": "ee96473e17d376127fb364dd3ad2de1406a487c6de77efded2172f6614bac3ba",
-      "size": 37131868
+      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.8.7/MagniRoute-0.8.7-windows.zip",
+      "sha256": "aade805f9be76e02ce86e10e163af8ebff64c820472f9019518db307098e4808",
+      "size": 37133514
     },
     "macos": {
-      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.8.6/MagniRoute-0.8.6-macos-x86_64.zip",
-      "sha256": "c46c8cf6699358d5fcc48cf0c31fda486fbf4e35c3b3e82bbd1e27598975458d",
-      "size": 25413701
+      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.8.7/MagniRoute-0.8.7-macos-x86_64.zip",
+      "sha256": "d07df59220435d15bae0151575999df0d78eb30e19f055fafb4629ad0ec3a312",
+      "size": 25414981
     },
     "macos-arm64": {
-      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.8.6/MagniRoute-0.8.6-macos-arm64.zip",
-      "sha256": "dd0f540c582195e31fded151803692e0cd5283bf4f8310a56540117bc86e30f8",
-      "size": 23789948
+      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.8.7/MagniRoute-0.8.7-macos-arm64.zip",
+      "sha256": "8a019ab03479f297d8219d190b12c526b8ace3465187914d253025f6d53c749c",
+      "size": 23789462
     },
     "macos-x86_64": {
-      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.8.6/MagniRoute-0.8.6-macos-x86_64.zip",
-      "sha256": "c46c8cf6699358d5fcc48cf0c31fda486fbf4e35c3b3e82bbd1e27598975458d",
-      "size": 25413701
+      "url": "https://github.com/KostyanFinn/NetKeeper/releases/download/v0.8.7/MagniRoute-0.8.7-macos-x86_64.zip",
+      "sha256": "d07df59220435d15bae0151575999df0d78eb30e19f055fafb4629ad0ec3a312",
+      "size": 25414981
     }
   },
-  "signature": "30576c664b08957a9fae8b80ae755110226bd161130cf1f8211ca8d7657a9bcff7ded8b86270024ee45535b2a0c74396bbcdc8d0dfd3993ccb38b4f8eea73a04"
+  "signature": "67d7c4eb2d31dba0c48cf6635ae4389b4356e61d8e01e00d7dec04fd48ac0d4a6d8744738559c11871f3b9f601ce16f76069ac2937ef9ee5b39979bc848aa308"
 }
